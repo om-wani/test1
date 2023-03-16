@@ -1,0 +1,18 @@
+body {
+  font-family: Phudu;
+  text-align: center;
+  color: darkblue;
+  background-color: black;
+}
+h1 {
+  word-spacing: 10;
+  color: red;
+}
+.instr {
+  color: cyan;
+}
+.names {
+  font-size: 40px;
+  font-weight: bold;
+  color: blue;
+}
